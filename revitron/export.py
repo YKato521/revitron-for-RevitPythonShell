@@ -16,7 +16,7 @@ with a felxible configuration stored in a document.
 """
 #-*- coding: UTF-8 -*-
 import os, shutil, time, sys, glob, re
-from pyrevit import script
+# from pyrevit import script
 from System.Collections.Generic import List
 
 

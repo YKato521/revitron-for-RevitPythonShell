@@ -1,7 +1,7 @@
 #-*- coding: UTF-8 -*-
 import re
 import os
-from pyrevit.coreutils import logger
+# from pyrevit.coreutils import logger
 
 
 class AttrDict(dict):

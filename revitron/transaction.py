@@ -6,7 +6,7 @@ The ``transaction`` submodule contains a wrapper class to simplify the usage of 
     t.close()
     
 """
-from pyrevit import script
+# from pyrevit import script
 
 
 class Transaction:
